@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikniksor
 - 👀 I’m interested in ("Data Science", "Deep Learning", "Machine Learning", "Python")
-- 🌱 I’m currently learning: DeepLearning specialization by DeepLearning.AI on Coursera
+- 🌱 I’m currently learning: DeepLearning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lordya197@gmail.com
 
