@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vikniksor
-- 👀 I’m interested in ("Data Science", "Deep Learning", "Machine Learning", "Python")
-- 🌱 I’m currently learning: DeepLearning 
+- 👋 Hi, I’m Max;
+- 👀 I’m interested in ("Data Science", "Deep Learning", "Machine Learning", "Python", "C#", "Unity", "Game Development");
+- 🌱 I’m currently learning: Unity3D 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: khaustov.maksym@gmail.com
 
